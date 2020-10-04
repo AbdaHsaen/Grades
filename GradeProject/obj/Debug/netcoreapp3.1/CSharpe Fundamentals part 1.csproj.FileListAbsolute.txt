@@ -1,0 +1,12 @@
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.AssemblyInfoInputs.cache
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.AssemblyInfo.cs
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.csproj.CoreCompileInputs.cache
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.exe
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.deps.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.runtimeconfig.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.runtimeconfig.dev.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.dll
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.pdb
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.dll
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.pdb
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\CSharpe Fundamentals part 1.genruntimeconfig.cache

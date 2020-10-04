@@ -1,0 +1,37 @@
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\GradeProject.exe
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\GradeProject.deps.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\GradeProject.runtimeconfig.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\GradeProject.runtimeconfig.dev.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\GradeProject.dll
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\bin\Debug\netcoreapp3.1\GradeProject.pdb
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\GradeProject.AssemblyInfoInputs.cache
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\GradeProject.AssemblyInfo.cs
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\GradeProject.csproj.CoreCompileInputs.cache
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\GradeProject.dll
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\GradeProject.pdb
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\CSharpe Fundamentals part 1\obj\Debug\netcoreapp3.1\GradeProject.genruntimeconfig.cache
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.exe
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.deps.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.runtimeconfig.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.runtimeconfig.dev.json
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.dll
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.pdb
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.AssemblyInfoInputs.cache
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.AssemblyInfo.cs
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.csproj.CoreCompileInputs.cache
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.dll
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.pdb
+C:\Users\AbdDa\source\repos\CSharpe Fundamentals part 1\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.genruntimeconfig.cache
+C:\Users\AbdDa\source\repos\Grades\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.exe
+C:\Users\AbdDa\source\repos\Grades\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.deps.json
+C:\Users\AbdDa\source\repos\Grades\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.runtimeconfig.json
+C:\Users\AbdDa\source\repos\Grades\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.runtimeconfig.dev.json
+C:\Users\AbdDa\source\repos\Grades\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.dll
+C:\Users\AbdDa\source\repos\Grades\GradeProject\bin\Debug\netcoreapp3.1\GradeProject.pdb
+C:\Users\AbdDa\source\repos\Grades\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.csprojAssemblyReference.cache
+C:\Users\AbdDa\source\repos\Grades\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.AssemblyInfoInputs.cache
+C:\Users\AbdDa\source\repos\Grades\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.AssemblyInfo.cs
+C:\Users\AbdDa\source\repos\Grades\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.csproj.CoreCompileInputs.cache
+C:\Users\AbdDa\source\repos\Grades\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.dll
+C:\Users\AbdDa\source\repos\Grades\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.pdb
+C:\Users\AbdDa\source\repos\Grades\GradeProject\obj\Debug\netcoreapp3.1\GradeProject.genruntimeconfig.cache
